@@ -2,7 +2,7 @@
 
 #### Containerize and deploy ML Pipeline serverless on AWS Fargate
 
-## Update: 16th August 
+## Update: 16th August 2021
 - Understand AWS Fargate and serverless deployment
 - Build and push a Docker image of the ML model onto Amazon Elastic Container Registry (ECR)
 - Create and execute a task definition using AWS Fargate
